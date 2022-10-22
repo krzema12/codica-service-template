@@ -4,6 +4,7 @@ apply(from = "./buildSrc/repositories.settings.gradle.kts")
 
 include(
     ":core",
+    ":rest-api",
 )
 
 dependencyResolutionManagement {
