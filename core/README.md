@@ -1,0 +1,1 @@
+Contains domain logic, unaware of concrete implementations of external services and APIs used to expose this logic.
